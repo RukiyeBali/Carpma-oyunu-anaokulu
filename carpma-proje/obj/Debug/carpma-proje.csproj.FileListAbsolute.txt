@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\bin\Debug\carpma-proje.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\bin\Debug\carpma-proje.exe
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\bin\Debug\carpma-proje.pdb
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma-proje.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma_proje.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma_proje.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma-proje.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma-proje.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma-proje.exe
+C:\Users\student\Desktop\Ahmet\ntp\carpma-proje\carpma-proje\obj\Debug\carpma-proje.pdb
